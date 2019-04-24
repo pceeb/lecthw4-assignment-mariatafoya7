@@ -1,6 +1,6 @@
 #!/bin/bash
-#This script splits the directories in hg19.gtf into directories corresponding to every chromosome.
-#Each directory contains a file with information for each chromosome
+#This script splits the files in hg19.gtf into directories corresponding to every chromosome.
+#Each directory contains a file with information for each corresponding chromosome
 #The directories created are 'chr21_gtf', 'chr2_gtf' and 'chr3_gtf'.
 
 mkdir chr21_gtf
